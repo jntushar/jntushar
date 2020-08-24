@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with insights on my work.
 - 📫 How to reach me: LinkedIn - [Tushat Jain](https://www.linkedin.com/in/jntushar/)
 
-<img src='https://github-readme-stats.vercel.app/api?username=jntushar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919'>
-
-
 <a href="https://github.com/jntushar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntushar&theme=dark&hide_langs_below=1" />
 </a>

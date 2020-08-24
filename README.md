@@ -34,6 +34,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently practicing Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on GitHub or in other any tech domain.
 - 🤔 I’m looking for help with insights on my work.
-- 📫 How to reach me: : LinkedIn - [Tushat Jain](https://www.linkedin.com/in/jntushar/)
+- 📫 How to reach me: LinkedIn - [Tushat Jain](https://www.linkedin.com/in/jntushar/)
 
 <img src='https://github-readme-stats.vercel.app/api?username=jntushar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919'>
+
+
+<a href="https://github.com/jntushar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntushar&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/jntushar">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=jntushar&show_icons=true&theme=dark&line_height=27" alt="Udit's github stats"/>
+</a>

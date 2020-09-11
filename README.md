@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/jntushar/">
   <img align="left-center" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/jntushar">
-  <img align="left-center" alt="Tushar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://www.facebook.com/tushar.jain.52056223">
   <img align="left-center" alt="Tushar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>

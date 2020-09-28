@@ -1,18 +1,6 @@
 ### Namaste, I'm Tushar Jain 👋
 
 <br/>
-
-<a href="https://www.linkedin.com/in/jntushar/">
-  <img align="left-center" alt="Tushar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/tushar.jain.52056223">
-  <img align="left-center" alt="Tushar's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jn_tushar_">
-  <img align="left-center" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br/>
 <br/>
 <br/>
 

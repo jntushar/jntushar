@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <a align="center" href="https://github.com/jntushar">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=jntushar&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntushar&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 

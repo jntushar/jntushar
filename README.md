@@ -1,8 +1,6 @@
 ### Namaste, I'm Tushar Jain 👋
 
 <br/>
-<br/>
-<br/>
 
 <!--
 **jntushar/jntushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

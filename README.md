@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 
 
-
+<br><br>
 
 <a align="center" href="https://github.com/jntushar">
     <p align="center">

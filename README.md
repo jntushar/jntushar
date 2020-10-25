@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently practicing Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on GitHub or in any other tech domain.
-- 🤔 I’m looking for help with insights on my work.
+- 💬 Ask me about anything, I am happy to help.
+- 🤔  I’m looking for help with insights on my work.
 - 📫 How to reach me: LinkedIn - [tjain4736@gmail.com](mailto:tjain4736@gmail.com)
 - 😄 Pronouns: He/His/Him
 

@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn - [tjain4736@gmail.com](mailto:tjain4736@gmail.com)
 - 😄 Pronouns: He/His/Him
 
-<br>
+<br><br>
 
 <a align="center" href="https://github.com/jntushar">
     <p align="center">

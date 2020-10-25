@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 - 🤔  I’m looking for help with insights on my work.
 - 📫 How to reach me: LinkedIn - [tjain4736@gmail.com](mailto:tjain4736@gmail.com)
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact:Wikipedia needs an army of anti-vandal bots.
 
-<br><br>
+<br>
 
 <a align="center" href="https://github.com/jntushar">
     <p align="center">

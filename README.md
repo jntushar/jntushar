@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn - [Tushat Jain](https://www.linkedin.com/in/jntushar/)
 - 😄 Pronouns: He/His/Him
 
+<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
 
 <a align="center" href="https://github.com/jntushar">
     <p align="center">

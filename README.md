@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
 -->
 <a href="https://www.linkedin.com/in/jntushar/">
   <img align="left" alt="Tushar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,11 +25,12 @@ Here are some ideas to get you started:
 **Talking about Personal Stuff:**
 
 - 🌱 I’m currently practicing Data Structure and Algorithms.
-- 👯 I’m looking to collaborate on GitHub or in any other tech domain.
 - 💬 Ask me about anything, I am happy to help.
+- 👯 I’m looking to collaborate.
 - 🤔  I’m looking for help with insights on my work.
 - 📫 How to reach me: LinkedIn - [tjain4736@gmail.com](mailto:tjain4736@gmail.com)
 - 😄 Pronouns: He/His/Him
+- ⚡ Fun fact:Wikipedia needs an army of anti-vandal bots.
 
 <br><br>
 

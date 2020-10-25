@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/tushar.jain.52056223">
   <img align="left" alt="Tushar Jain | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br>
 
 - 🌱 I’m currently practicing Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on GitHub or in any other tech domain.
 - 🤔 I’m looking for help with insights on my work.
-- 📫 How to reach me: LinkedIn - [Tushat Jain](https://www.linkedin.com/in/jntushar/)
+- 📫 How to reach me: LinkedIn - [tjain4736@gmail.com](mailto:tjain4736@gmail.com)
 - 😄 Pronouns: He/His/Him
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->

@@ -1,9 +1,6 @@
 ### Namaste, I'm Tushar Jain 👋
 
 <!--
-**jntushar/jntushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jntushar&label=Views&color=brightgreen&style=plastic" alt="jntushar" /> </p>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,6 +9,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.linkedin.com/in/jntushar/">
+  <img align="left" alt="Tushar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/jn_tushar_">
+  <img align="left" alt="Tushar Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/tushar.jain.52056223">
+  <img align="left" alt="Tushar Jain | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 - 🌱 I’m currently practicing Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on GitHub or in any other tech domain.

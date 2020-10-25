@@ -1,5 +1,4 @@
-### Namaste, I'm Tushar Jain 👋
-
+### Hey 👋, I'm </Tushar Jain>
 <!--
 Here are some ideas to get you started:
 
@@ -20,8 +19,11 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
+
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+**Talking about Personal Stuff:**
 
 - 🌱 I’m currently practicing Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on GitHub or in any other tech domain.
@@ -29,7 +31,6 @@ Here are some ideas to get you started:
 - 🤔  I’m looking for help with insights on my work.
 - 📫 How to reach me: LinkedIn - [tjain4736@gmail.com](mailto:tjain4736@gmail.com)
 - 😄 Pronouns: He/His/Him
-
 
 <br><br>
 

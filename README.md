@@ -1,4 +1,4 @@
-### Hey 👋, I'm </Tushar Jain>
+### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm </Tushar Jain>
 <!--
 Here are some ideas to get you started:
 

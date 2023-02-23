@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-<a href="https://www.linkedin.com/in/jntushar/">
+<!-- <a href="https://www.linkedin.com/in/jntushar/">
   <img align="left" alt="Tushar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/jn_tushar_">
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.instagram.com/jn_tushar_/">
   <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 
 <br/>
 

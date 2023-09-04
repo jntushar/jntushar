@@ -1,4 +1,4 @@
-## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Tushar Jain. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![GitHub jntushar](https://img.shields.io/github/followers/jntushar?label=follow&style=social)](https://github.com/jntushar)
 [![Linkedin: Tushar Jain](https://img.shields.io/badge/-Tushar%20Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jntushar/)](https://www.linkedin.com/in/jntushar/)
 [![Twitter: Tushar Jain](https://img.shields.io/twitter/follow/jn_tushar_?style=social)](https://twitter.com/jn_tushar_)

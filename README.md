@@ -1,5 +1,12 @@
-### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm </Tushar Jain>
+## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![GitHub jntushar](https://img.shields.io/github/followers/jntushar?label=follow&style=social)](https://github.com/jntushar)
+[![Linkedin: Tushar Jain](https://img.shields.io/badge/-Tushar%20Jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jntushar/)](https://www.linkedin.com/in/jntushar/)
+[![Twitter: Tushar Jain](https://img.shields.io/twitter/follow/jn_tushar_?style=social)](https://twitter.com/jn_tushar_)
 <!--
+[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
